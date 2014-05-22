@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LSPManager", "LSPManager.vcxproj", "{66EA4B3F-C350-46AE-BA3E-C46B18B24066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EA4B3F-C350-46AE-BA3E-C46B18B24066}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66EA4B3F-C350-46AE-BA3E-C46B18B24066}.Debug|Win32.Build.0 = Debug|Win32
+		{66EA4B3F-C350-46AE-BA3E-C46B18B24066}.Release|Win32.ActiveCfg = Release|Win32
+		{66EA4B3F-C350-46AE-BA3E-C46B18B24066}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

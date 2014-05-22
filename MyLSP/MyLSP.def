@@ -1,0 +1,4 @@
+LIBRARY MyLSP
+
+EXPORTS
+	WSPStartup @ 1
